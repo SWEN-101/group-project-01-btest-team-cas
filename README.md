@@ -4,8 +4,8 @@
 An online E-store system built in github.io .. etc. <_replace with other platform requirements_>
   
 ## Team 
-<_each team member clones repo and then edits/replace with their name below_>
-- MEMBER01
+
+- Lucille (THE COOLEST CA)
 - MEMBER02
 - MEMBER03
 - MEMBER04
