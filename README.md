@@ -5,8 +5,8 @@ An online E-store system built in github.io .. etc. <_replace with other platfor
   
 ## Team 
 
-- Lucille (THE COOLEST CA)
-- MEMBER02
+- Will :)
+- Lucille
 - MEMBER03
 - MEMBER04
 
