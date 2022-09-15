@@ -7,7 +7,7 @@ An online E-store system built in github.io .. etc. <_replace with other platfor
 
 - Will :)
 - Lucille
-- MEMBER03
+- Dan
 - MEMBER04
 
 
